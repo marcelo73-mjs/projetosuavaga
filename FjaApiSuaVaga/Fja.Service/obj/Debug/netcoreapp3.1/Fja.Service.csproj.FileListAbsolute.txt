@@ -1,0 +1,12 @@
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\bin\Debug\netcoreapp3.1\Fja.Service.deps.json
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\bin\Debug\netcoreapp3.1\Fja.Service.dll
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\bin\Debug\netcoreapp3.1\Fja.Service.pdb
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\bin\Debug\netcoreapp3.1\Fja.Repository.dll
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\bin\Debug\netcoreapp3.1\Fja.Repository.pdb
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\obj\Debug\netcoreapp3.1\Fja.Service.csprojAssemblyReference.cache
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\obj\Debug\netcoreapp3.1\Fja.Service.AssemblyInfoInputs.cache
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\obj\Debug\netcoreapp3.1\Fja.Service.AssemblyInfo.cs
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\obj\Debug\netcoreapp3.1\Fja.Service.csproj.CoreCompileInputs.cache
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\obj\Debug\netcoreapp3.1\Fja.Service.csproj.CopyComplete
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\obj\Debug\netcoreapp3.1\Fja.Service.dll
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Service\obj\Debug\netcoreapp3.1\Fja.Service.pdb

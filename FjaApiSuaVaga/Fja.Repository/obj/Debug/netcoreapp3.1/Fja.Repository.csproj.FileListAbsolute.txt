@@ -1,0 +1,9 @@
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\bin\Debug\netcoreapp3.1\Fja.Repository.deps.json
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\bin\Debug\netcoreapp3.1\Fja.Repository.dll
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\bin\Debug\netcoreapp3.1\Fja.Repository.pdb
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\obj\Debug\netcoreapp3.1\Fja.Repository.csprojAssemblyReference.cache
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\obj\Debug\netcoreapp3.1\Fja.Repository.AssemblyInfoInputs.cache
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\obj\Debug\netcoreapp3.1\Fja.Repository.AssemblyInfo.cs
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\obj\Debug\netcoreapp3.1\Fja.Repository.csproj.CoreCompileInputs.cache
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\obj\Debug\netcoreapp3.1\Fja.Repository.dll
+G:\Unijorge\projetoSuaVaga\FjaApiSuaVaga\Fja.Repository\obj\Debug\netcoreapp3.1\Fja.Repository.pdb
